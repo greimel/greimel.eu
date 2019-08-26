@@ -10,5 +10,36 @@
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Background</title>
+      <link>/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>(downloadable CV coming soon)
+Academic Background  2015&amp;ndash;2020 (expected): PhD in Economics &amp;mdash; U Mannheim 2016&amp;ndash;2017: Visiting PhD student at Yale U (9 months) 2013&amp;ndash;2015: MSc in Economics &amp;mdash; Institute for Advanced Studies, Vienna (IHS) and Vienna University of Technology (joint degree) 2010&amp;ndash;2013: BSc in Economics &amp;mdash; Vienna University of Economics and Business  Talks and Discussions 2019: Mannheim-Frankfurt Macro Workshop (March) · Stockholm University (May) · Nordic Macro Symposium in Smögen (August, Discussant) · Econometric Society European Meeting in Manchester (August*) · New Approaches for Understanding Business Cycles (CEPR Conference in Mannheim, August*, Poster)</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Research Interests Fields: Macroeconomics with heterogenous agents, housing and financial markets, Macro-Finance, Household finance
+Topics: Housing and mortgage markets, income inequality, financial stability, financial crises
+Technical: Numerical methods, quantitative modelling, free open source software (mostly Julia and R, see my minor contributions to Julia packages), high performance computing (i.e. running parallelized programs on remote clusters), using continuous integration (CI) for reproducable research
+Projects Falling Behind: Has Rising Inequality Fueled the American Debt Boom 1980&amp;ndash;2007?</description>
+    </item>
+    
+    <item>
+      <title>Teaching Experience</title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description> 2018&amp;ndash;2019: TA for Economic Policy (mechanism design, political economy, applications in monetary, fiscal, growth and competition policies, taught by Hans Peter Grüner) &amp;ndash; Undergraduate &amp;mdash; U Mannheim 2015: TA for Mathematics 2 (topological, metric, normed spaces; correspondences; convexity) &amp;mdash; Graduate &amp;mdash; IHS Vienna 2015: TA for Econometrics 2 (linear, multivariate time series analysis, taught by Manfred Deistler) &amp;mdash; Graduate &amp;mdash; IHS Vienna  </description>
+    </item>
+    
   </channel>
 </rss>

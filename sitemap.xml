@@ -3,8 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/resume/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -12,8 +15,15 @@
   </url>
   
   <url>
+    <loc>/research/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/teaching/</loc>
   </url>
   
 </urlset>
