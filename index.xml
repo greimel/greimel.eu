@@ -11,6 +11,16 @@
     
     
     <item>
+      <title></title>
+      <link>/falling-behind/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/falling-behind/</guid>
+      <description>downloading &amp;hellip;
+ //Using setTimeout to execute a function after 0.25 seconds. setTimeout(function () { //Redirect with JavaScript window.location.href = &#39;https://gitlab.com/drechsel-grau-greimel/public/builds/artifacts/master/raw/falling-behind/paper/falling-behind-paper.pdf?job=compile_pdf_slides&#39;; }, 0);  //Using setTimeout to execute a function after 0.25 seconds. setTimeout(function () { //Redirect with JavaScript window.location.href= &#39;/research/&#39;; }, 7000);  -- </description>
+    </item>
+    
+    <item>
       <title>Background</title>
       <link>/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
