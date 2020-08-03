@@ -11,49 +11,6 @@
     
     
     <item>
-      <title></title>
-      <link>/falling-behind/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/falling-behind/</guid>
-      <description>downloading &amp;hellip;
- //Using setTimeout to execute a function after 0.25 seconds. setTimeout(function () { //Redirect with JavaScript window.location.href = &#39;https://gitlab.com/drechsel-grau-greimel/public/builds/artifacts/master/raw/falling-behind/paper/falling-behind-paper.pdf?job=compile_pdf_slides&#39;; }, 0);  //Using setTimeout to execute a function after 0.25 seconds. setTimeout(function () { //Redirect with JavaScript window.location.href= &#39;/research/&#39;; }, 7000);  --  </description>
-    </item>
-    
-    <item>
-      <title>Background</title>
-      <link>/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/resume/</guid>
-      <description>(download CV)
-Academic Background  2015&amp;ndash;2020 (expected): PhD in Economics &amp;mdash; U Mannheim 2016&amp;ndash;2017: Visiting PhD student at Yale U (9 months) 2013&amp;ndash;2015: MSc in Economics &amp;mdash; Institute for Advanced Studies, Vienna (IHS) and Vienna University of Technology (joint degree) 2010&amp;ndash;2013: BSc in Economics &amp;mdash; Vienna University of Economics and Business  Talks and Discussions 2020: AEA in San Diego (Poster) · AFA in San Diego (Poster) · University of Amsterdam · University of Bologna · Western Finance Association in San Francisco (*)</description>
-    </item>
-    
-    <item>
-      <title>Job Market Paper (hidden page)</title>
-      <link>/hidden/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/hidden/</guid>
-      <description>paper
-slides</description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/research/</guid>
-      <description>Research Interests Fields: Macroeconomics with heterogeneous agents, Macro-Finance, Household finance
-Topics: Housing and mortgage markets, income inequality, financial stability, financial crises
-Technical: Numerical methods, quantitative modelling, free open source software (mostly Julia and R, see my minor contributions to Julia packages), high performance computing (i.e. running parallelized programs on remote clusters)
-Projects Falling Behind: Has Rising Inequality Fueled the American Debt Boom? (joint with Moritz Drechsel-Grau)
-Job market paper [paper] [slides] [poster]</description>
-    </item>
-    
-    <item>
       <title>Teaching Experience</title>
       <link>/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
