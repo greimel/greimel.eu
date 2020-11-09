@@ -11,12 +11,17 @@
     
     
     <item>
-      <title>Teaching Experience</title>
+      <title>Teaching</title>
       <link>/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/teaching/</guid>
-      <description> 2018&amp;ndash;2020: TA for Economic Policy (mechanism design, political economy, applications in monetary, fiscal, growth and competition policies, taught by Hans Peter Grüner) &amp;ndash; Undergraduate &amp;mdash; U Mannheim 2015: TA for Mathematics 2 (topological, metric, normed spaces; correspondences; convexity) &amp;mdash; Graduate &amp;mdash; IHS Vienna 2015: TA for Econometrics 2 (linear, multivariate time series analysis, taught by Manfred Deistler) &amp;mdash; Graduate &amp;mdash; IHS Vienna  </description>
+      <description>Current   Fall 2020: Microeconomics &amp;ndash; Undergraduate &amp;ndash; U Amsterdam
+Here are some Pluto.jl notebooks that illustrate some of the material. The notebooks are hosted on binder, which runs the notebooks live once you click on the link. Loading Julia, Pluto.jl and the notebook on binder takes about 30 seconds.
+  [Oct 27] two-variables.jl
+  [not shown in class] linear-approximation.jl
+  [Nov 9] demand.jl
+Note that there is an issue with using SymPy.</description>
     </item>
     
   </channel>
