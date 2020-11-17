@@ -17,11 +17,8 @@
       
       <guid>/teaching/</guid>
       <description>Current   Fall 2020: Microeconomics &amp;ndash; Undergraduate &amp;ndash; U Amsterdam
-Here are some Pluto.jl notebooks that illustrate some of the material. The notebooks are hosted on binder, which runs the notebooks live once you click on the link. Loading Julia, Pluto.jl and the notebook on binder takes about 30 seconds.
-  [Oct 27] two-variables.jl
-  [not shown in class] linear-approximation.jl
-  [Nov 9] demand.jl
-Note that there is an issue with using SymPy.</description>
+Here are some Pluto.jl notebooks that illustrate some of the material. The notebooks are hosted on binder, which runs the notebooks live once you click on the link.
+Loading Julia, Pluto.jl and the notebook on binder takes about 30 seconds. Note that some notebooks take up to 5 min to load because all packages are freshly installed and precompiled in the cloud.</description>
     </item>
     
   </channel>
